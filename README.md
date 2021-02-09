@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards
+[![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takahirokobayashi-42)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
