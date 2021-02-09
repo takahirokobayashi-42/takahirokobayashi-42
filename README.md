@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![trophy](https://github-profile-trophy.vercel.app/?username=takahirokobayashi-42)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=takahirokobayashi-42&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **takahirokobayashi-42/takahirokobayashi-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
