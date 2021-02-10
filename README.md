@@ -1,5 +1,4 @@
 [![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=takahirokobayashi-42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=takahirokobayashi-42&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
