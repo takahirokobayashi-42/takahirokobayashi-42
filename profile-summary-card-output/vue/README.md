@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/vue/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/takahirokobayashi-42/takahirokobayashi-42/main/profile-summary-card-output/vue/4-productive-time.svg)
+```
+
+    
